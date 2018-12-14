@@ -1,0 +1,19 @@
+.header {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    padding-left: 100px;
+    height: 200px;
+    background-color: #A8DADC;
+}
+
+.header > h1 {
+    color: #457B9D;
+    margin-bottom: 10px !important;
+    font-size: 45px;
+}
+.header > span {
+    color: #F1FAEE;
+    font-size: 20px;
+}
